@@ -4,10 +4,6 @@
 - 🎓 Currently pursuing a Bachelor of Science (BSc) in Computer Science & Engineering at the University of Dhaka.
 - 💻 I have experience in **C++, Java, HTML, CSS, JavaScript, MySQL**.
 
-<p align="center">
-  <img src="assets/Github_Catto.gif" alt="GitHub Cat" width="400"/>
-</p>
-
 ### Languages and Tools:
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
