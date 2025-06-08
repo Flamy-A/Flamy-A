@@ -2,8 +2,8 @@
 **Computer Science Undergrad | ML Enthusiast | AI Enthusiast**
 
 <p align="center">
-  <img src="assets/coding.gif" alt="coding" width="400"/>
-</p> 
+  <img src="assets/Github_Catto.gif" alt="GitHub Cat Coding" width="400"/>
+</p>
 
 - 🎓 Currently pursuing a Bachelor of Science (BSc) in Computer Science & Engineering at the University of Dhaka.
 - 💻 I have experience in **C++, Java, HTML, CSS, JavaScript, MySQL**.
