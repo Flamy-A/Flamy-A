@@ -9,6 +9,8 @@
   <img src="https://komarev.com/ghpvc/?username=Flamy-A&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
+---
+
 - 🎓 Currently pursuing a Bachelor of Science (BSc) in Computer Science & Engineering at the University of Dhaka.
 - 💻 I have experience in **C++, Java, HTML, CSS, JavaScript, MySQL**.
 
