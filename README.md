@@ -40,7 +40,6 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-@@ -51,23 +60,20 @@
   <img src="https://avatars.githubusercontent.com/u/111381231?s=200&v=4" alt="Neon" width="40" height="40"/>
 </p>
 
