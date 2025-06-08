@@ -10,9 +10,16 @@
 </p>
 
 ---
+### 👩‍💻 About Me
 
 - 🎓 Currently pursuing a Bachelor of Science (BSc) in Computer Science & Engineering at the University of Dhaka.
-- 💻 I have experience in **C++, Java, HTML, CSS, JavaScript, MySQL**.
+- 💬 Ask me about **C, C++, Java**
+- 📫 Reach me at **amio-2021311235@cs.du.ac.bd**
+- 📄 Know about my experience:  More actions
+
+- ⚽ Football Lover & Hala Madrid 
+- 🎬 Cinephile
+
 
 ### Languages and Tools:
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)
