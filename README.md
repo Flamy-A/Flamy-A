@@ -1,7 +1,7 @@
 <h1 align="center">Hello There, This is Amio Rashid 🧑‍💻 </h1>
 <h3 align="center"> Breathing life into ideas with every keystroke 💡💻 </h3>
+<h3 align="center"> Computer Science Undergrad | ML Enthusiast | AI Enthusiast </h3>
 
-**Computer Science Undergrad | ML Enthusiast | AI Enthusiast**
 
 <p align="center">
   <img src="assets/Github_Catto.gif" alt="GitHub Cat Coding" width="400"/>
