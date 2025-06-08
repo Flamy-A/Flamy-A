@@ -1,9 +1,12 @@
 <h1 align="center">Hello There, This is Amio Rashid 🧑‍💻 </h1>
 <h3 align="center"> Computer Science Undergrad | ML Enthusiast | AI Enthusiast </h3>
 
-
 <p align="center">
   <img src="assets/Github_Catto.gif" alt="GitHub Cat Coding" width="400"/>
+</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Flamy-A&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 - 🎓 Currently pursuing a Bachelor of Science (BSc) in Computer Science & Engineering at the University of Dhaka.
