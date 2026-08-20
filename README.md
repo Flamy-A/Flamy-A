@@ -50,22 +50,6 @@
 - **macOS**
 - **Windows**
 
----
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Flamy-A&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flamy-A&layout=compact&theme=radical" alt="Top Languages" width="48%" />
-</p>
-
----
-
-## 🚀 Contribution Graph:
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Flamy-A&theme=radical" alt="GitHub Contribution Graph" />
-</p>
-
 
 ---
 
